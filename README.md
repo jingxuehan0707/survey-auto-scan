@@ -50,9 +50,9 @@ I have provided the following items:
 
 | Name       | Envelope Type | Stamps Combination                     |
 |------------|---------------|----------------------------------------|
-| Farhad     | Mail          | 2 Statue of Freedom, 1 Uncle Sam Hat = $2.28   |
+| Farhad     | Mail          | 2 Usala = $2.58   |
 |            | Return        | 2 U.S. Flag, 2 Yellow Daffodils = 1.50        |
-| Ben        | Mail          | 2 Statue of Freedom, 1 Uncle Sam Hat = 2.28   |
+| Ben        | Mail          | 2 Usala = $2.58                               |
 |            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57               |
 | Chenqiang  | Mail          | 3 U.S. Flag = 2.19                             |
 |            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57                |
