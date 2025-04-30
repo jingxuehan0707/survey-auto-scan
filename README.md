@@ -10,30 +10,6 @@ I have provided the following items:
 - `address log sheet`
 - `stamps`
 
-# Steps
-
-## 1. Match Address with Survey ID
-- Grab the `address log sheet`. Identify one address and its corresponding survey ID.
-- By doing so, we can match our survey ID with one address.
-
-## 2. Prepare the Content of the Mail Envelope
-- Grab one `return envelope`. 
-  - Adhere one `return address sticky label`.
-  - Adhere $1.50 `stamps`.
-  - Double-fold the `return envelope`.
-- Grab one `reminder letter`.
-- Grab one `survey` (the same survey from step 1).
-
-## 3. Assemble the Mail Envelope
-- Grab one `mail envelope`. 
-  - Adhere one `mail address sticky label` (the address should match the survey ID in step 1).
-  - Adhere $2.04 `stamps`.
-- Stuff all items from step 2 into the `mail envelope`.
-- Seal the `mail envelope`.
-
-# Items to Return
-- All unused items.
-
 # Stamps Calculation
 
 | Stamps Type           | Value  |
@@ -58,3 +34,27 @@ I have provided the following items:
 |            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57                |
 | Harvey     | Mail          | 3 U.S. Flag = 2.19                             |
 |            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57                |
+
+# Steps
+
+## 1. Match Address with Survey ID
+- Grab the `address log sheet`. Identify one address and its corresponding survey ID.
+- By doing so, we can match our survey ID with one address.
+
+## 2. Prepare the Content of the Mail Envelope
+- Grab one `return envelope`. 
+  - Adhere one `return address sticky label`.
+  - Adhere $1.50 `stamps`.
+  - Double-fold the `return envelope`.
+- Grab one `reminder letter`.
+- Grab one `survey` (the same survey from step 1).
+
+## 3. Assemble the Mail Envelope
+- Grab one `mail envelope`. 
+  - Adhere one `mail address sticky label` (the address should match the survey ID in step 1).
+  - Adhere $2.04 `stamps`.
+- Stuff all items from step 2 into the `mail envelope`.
+- Seal the `mail envelope`.
+
+# Items to Return
+- All unused items.
