@@ -46,7 +46,7 @@ I have provided the following items:
 | Yellow Daffodils     | $0.02  |
 | Poppy & Coneflowers  | $0.10  |
 
-# Stamps Combination
+# Stamps Assignment
 
 | Name       | Envelope Type | Stamps Combination                     |
 |------------|---------------|----------------------------------------|
