@@ -16,7 +16,7 @@ I have provided the following items:
 |-----------------------|--------|
 | U.S. Flag            | $0.73  |
 | Uncle Sam Hat        | $0.28  |
-| Usala                | $1.29  |
+| Ursula                | $1.29  |
 | Patriotic Wave       | $1.00  |
 | Statue of Freedom    | $1.00  |
 | Yellow Daffodils     | $0.02  |
@@ -26,14 +26,14 @@ I have provided the following items:
 
 | Name       | Envelope Type | Stamps Combination                     |
 |------------|---------------|----------------------------------------|
-| Farhad     | Mail          | 2 Usala = $2.58   |
+| Farhad     | Mail          | 2 Ursula = $2.58   |
 |            | Return        | 2 U.S. Flag, 2 Yellow Daffodils = 1.50        |
-| Ben        | Mail          | 2 Usala = $2.58                               |
-|            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57               |
+| Ben        | Mail          | 2 Ursula = $2.58                               |
+|            | Return        | 1 Ursula, 1 Uncle Sam Hat = 1.57               |
 | Chenqiang  | Mail          | 3 U.S. Flag = 2.19                             |
-|            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57                |
+|            | Return        | 1 Ursula, 1 Uncle Sam Hat = 1.57                |
 | Harvey     | Mail          | 3 U.S. Flag = 2.19                             |
-|            | Return        | 1 Usala, 1 Uncle Sam Hat = 1.57                |
+|            | Return        | 1 Ursula, 1 Uncle Sam Hat = 1.57                |
 
 # Steps
 
