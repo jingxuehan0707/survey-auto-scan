@@ -24,7 +24,7 @@ I have provided the following items:
 
 # Stamps Assignment
 
-| Name       | Envelope Type | Stamps Combination                     |
+| Name       | Envelope Type | Stamps to Adhere                     |
 |------------|---------------|----------------------------------------|
 | Farhad     | Mail          | 2 Ursula = $2.58   |
 |            | Return        | 2 U.S. Flag, 2 Yellow Daffodils = 1.50        |
