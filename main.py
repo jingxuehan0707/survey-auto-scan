@@ -44,6 +44,16 @@ def process_pdf_files(pdf_files, scan_folder, survey_folder):
             image, suffix = process_image(image, i)
             save_image(image, survey_uuid, suffix, survey_folder, pdf_file, i)
 
+def process_pdf_files(pdf_files, scan_folder, survey_folder):
+    """Process each PDF file and save its pages as images."""
+    for pdf_file in pdf_files:
+        images = convert_pdf_to_images(pdf_file, scan_folder)
+        for i, image in enumerate(images):
+            if i % 2 == 0:  # Start of a new survey response
+                survey_uuid = uuid.uuid4()
+            image, suffix = process_image(image, i)
+            save_image(image, survey_uuid, suffix, survey_folder, pdf_file, i)
+
 def main():
     """Main function to process PDF files."""
     pdf_files = get_pdf_files(SCAN_FOLDER)
